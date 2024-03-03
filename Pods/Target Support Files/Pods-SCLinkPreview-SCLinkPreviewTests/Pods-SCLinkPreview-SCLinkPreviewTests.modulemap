@@ -1,0 +1,6 @@
+framework module Pods_SCLinkPreview_SCLinkPreviewTests {
+  umbrella header "Pods-SCLinkPreview-SCLinkPreviewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
