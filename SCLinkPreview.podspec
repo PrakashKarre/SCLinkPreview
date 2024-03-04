@@ -30,7 +30,7 @@ DESC
   spec.author             = { "Prakash" => "pra2kash2@gmail.com" }
 
 
-   spec.platform     = :ios, "10.0"
+   spec.platform     = :ios, "12.0"
 
   spec.source       = { :git => "https://github.com/PrakashKarre/SCLinkPreview.git", :tag => "0.0.1" }
 
