@@ -1,0 +1,15 @@
+.DS_Store
+*.xcuserstate
+
+# Ignore Podfile.lock
+Podfile.lock
+
+# Ignore Pods directory
+Pods
+Pods/*
+Pods/Pods
+
+Pods/Manifest.lock
+Pods/Pods.xcodeproj/project.pbxproj
+Pods/Pods.xcodeproj/xcuserdata/apple.xcuserdatad/xcschemes/xcschememanagement.plist
+/Pods/Target Support Files

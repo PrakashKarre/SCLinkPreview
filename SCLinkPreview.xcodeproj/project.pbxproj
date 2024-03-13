@@ -117,7 +117,6 @@
 				7FBEE5AE994EFF684E95B323 /* Pods-SCLinkPreview-SCLinkPreviewTests.debug.xcconfig */,
 				F536D0F5D65B1AEB46EA6B48 /* Pods-SCLinkPreview-SCLinkPreviewTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};

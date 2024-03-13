@@ -9,7 +9,7 @@
 import Foundation
 enum LinkPreviewError : Equatable{
     case urlNotFound
-    case metaDataFailed(error:String)
+    case metaDataFailed
     case previewFailed(error:String)
     
 }

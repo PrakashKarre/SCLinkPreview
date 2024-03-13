@@ -6,6 +6,7 @@ target 'SCLinkPreview' do
   use_frameworks!
 
   # Pods for SCLinkPreview
+  pod 'RealmSwift', '~>10'
 
   target 'SCLinkPreviewTests' do
     # Pods for testing

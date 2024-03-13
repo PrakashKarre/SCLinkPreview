@@ -12,6 +12,6 @@ struct LinkPreviewMetaData {
     var description: String?
     var imageUrl: String?
     let siteurl: String
-    let siteName:String
+    var siteName:String?
     var iconUrl: String?
 }
